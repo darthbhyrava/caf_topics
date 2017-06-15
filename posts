@@ -1,0 +1,1496 @@
+<!DOCTYPE html>
+<html class="Public NoJs LoggedOut NoSidebar Responsive" dir="LTR" id="XenForo" lang="en-US" xmlns:fb="http://www.facebook.com/2008/fbml">
+ <head>
+  <script>
+   (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+    new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+    j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+    'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+    })(window,document,'script','dataLayer','GTM-K63ML7R');
+  </script>
+  <meta charset="utf-8"/>
+  <meta content="IE=Edge,chrome=1" http-equiv="X-UA-Compatible"/>
+  <meta content="N1NUvQzZcQo1a1jCIZ7Mk36EaFdMHqqbRMqtanY6kdg" name="google-site-verification"/>
+  <meta content="4503599628883866" property="twitter:account_id"/>
+  <meta content="width=device-width, initial-scale=1" name="viewport"/>
+  <base href="http://www.redcafe.net/"/>
+  <title>
+   Search Results | RedCafe.net
+  </title>
+  <noscript>
+   <style>
+    .JsOnly, .jsOnly { display: none !important; }
+   </style>
+  </noscript>
+  <link href="/css.php?css=xenforo,form,public&amp;style=2&amp;dir=LTR&amp;d=1497459105" rel="stylesheet"/>
+  <link href="/css.php?css=login_bar,panel_scroller,rellect_adblock_detector,search_results&amp;style=2&amp;dir=LTR&amp;d=1497459105" rel="stylesheet"/>
+  <link href="/css/match_day.css" rel="stylesheet" type="text/css"/>
+  <!-- Google Analytics -->
+  <script>
+   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+ga('create', 'UA-744970-1', 'redcafe.net');
+
+  ga('set', 'dimension2', 'Not Logged In');
+
+ga('require', 'displayfeatures');
+  </script>
+  <!-- End Google Analytics -->
+  <script src="/js/adsbygoogle.js" type="text/javascript">
+  </script>
+  <link href="http://www.redcafe.net/img/logo.og.png" rel="apple-touch-icon"/>
+  <link href="forums/-/index.rss" rel="alternate" title="RSS feed for RedCafe.net" type="application/rss+xml"/>
+  <link href="search/61940913/?page=2" rel="next"/>
+  <meta content="noindex" name="robots"/>
+ </head>
+ <body>
+  <noscript>
+   <iframe height="0" src="https://www.googletagmanager.com/ns.html?id=GTM-K63ML7R" style="display:none;visibility:hidden" width="0">
+   </iframe>
+  </noscript>
+  <div id="loginBar">
+   <div class="pageWidth">
+    <div class="pageContent">
+     <h3 id="loginBarHandle">
+      <a class="concealed noOutline" href="login/">
+       Log in or Sign up
+      </a>
+     </h3>
+     <span class="helper">
+     </span>
+    </div>
+   </div>
+  </div>
+  <div id="headerMover">
+   <div id="headerProxy">
+   </div>
+   <div class="search_results" id="content">
+    <div class="pageWidth">
+     <div class="pageContent">
+      <!-- main content area -->
+      <div class="breadBoxTop ">
+       <nav>
+        <fieldset class="breadcrumb">
+         <a class="OverlayTrigger jumpMenuTrigger" data-cacheoverlay="true" href="misc/quick-navigation-menu" title="Open quick navigation">
+          <!--Jump to...-->
+         </a>
+         <div class="boardTitle">
+          <strong>
+           RedCafe.net
+          </strong>
+         </div>
+         <span class="crumbs">
+          <span class="crust homeCrumb" itemscope="itemscope" itemtype="http://data-vocabulary.org/Breadcrumb">
+           <a class="crumb" href="http://www.redcafe.net/" itemprop="url" rel="up">
+            <span itemprop="title">
+             Home
+            </span>
+           </a>
+           <span class="arrow">
+            <span>
+            </span>
+           </span>
+          </span>
+          <span class="crust" itemscope="itemscope" itemtype="http://data-vocabulary.org/Breadcrumb">
+           <a class="crumb" href="http://www.redcafe.net/search/" itemprop="url" rel="up">
+            <span itemprop="title">
+             Search
+            </span>
+           </a>
+           <span class="arrow">
+            <span>
+             &gt;
+            </span>
+           </span>
+          </span>
+         </span>
+        </fieldset>
+       </nav>
+      </div>
+      <!--[if lt IE 9]>
+							<p class="importantMessage">You are using an out of date browser. It  may not display this or other websites correctly.<br />You should upgrade or use an <a href="https://www.google.com/chrome/browser/" target="_blank">alternative browser</a>.</p>
+						<![endif]-->
+      <!-- h1 title, description -->
+      <div class="titleBar">
+       <span class="icon">
+       </span>
+       <h1>
+        Search Results
+       </h1>
+      </div>
+      <!-- main template -->
+      <div class="pageNavLinkGroup">
+       <div class="linkGroup SelectionCountContainer">
+        <a href="search/61940913/?searchform=1">
+         Search Again
+        </a>
+       </div>
+       <div class="PageNav" data-baseurl="search/61940913/?page=%7B%7Bsentinel%7D%7D" data-end="6" data-last="21" data-page="1" data-range="2" data-sentinel="{{sentinel}}" data-start="2">
+        <span class="pageNavHeader">
+         Page 1 of 21
+        </span>
+        <nav>
+         <a class="currentPage " href="search/61940913/" rel="start">
+          1
+         </a>
+         <a class="PageNavPrev hidden">
+          ←
+         </a>
+         <span class="scrollable">
+          <span class="items">
+           <a class="" href="search/61940913/?page=2">
+            2
+           </a>
+           <a class="" href="search/61940913/?page=3">
+            3
+           </a>
+           <a class="" href="search/61940913/?page=4">
+            4
+           </a>
+           <a class="" href="search/61940913/?page=5">
+            5
+           </a>
+           <a class="" href="search/61940913/?page=6">
+            6
+           </a>
+          </span>
+         </span>
+         <a class="PageNavNext ">
+          →
+         </a>
+         <a class="" href="search/61940913/?page=21">
+          21
+         </a>
+         <a class="text" href="search/61940913/?page=2">
+          Next &gt;
+         </a>
+        </nav>
+       </div>
+      </div>
+      <div class="section sectionMain searchResults">
+       <form action="" class="InlineModForm" data-controls="#InlineModControls" data-cookiename="" data-imodoptions="#ModerationSelect option" method="post">
+        <ol class="searchResultsList">
+         <li class="searchResult post primaryContent" data-author="Pogue Mahone" id="post-21058515">
+          <div class="listBlock main">
+           <div class="titleText">
+            <span class="contentType">
+             Post
+            </span>
+            <h3 class="title">
+             <a href="posts/21058515/">
+              James Ducker: United prepared to listen to offers for Smalling
+             </a>
+            </h3>
+           </div>
+           <blockquote class="snippet">
+            <a href="posts/21058515/">
+             It's also amazing that someone who is "easily our best defender" played worse than every other central defender in our squad (all four of them,...
+            </a>
+           </blockquote>
+           <div class="meta">
+            Post by:
+            <a class="username" dir="auto" href="members/pogue-mahone.19580/">
+             Pogue Mahone
+            </a>
+            ,
+            <abbr class="DateTime" data-datestring="Jun 14, 2017" data-diff="13516" data-time="1497457127" data-timestring="17:18">
+             Jun 14, 2017 at 17:18
+            </abbr>
+            in forum:
+            <a href="forums/manchester-united-forum.6/">
+             Manchester United Forum
+            </a>
+           </div>
+          </div>
+         </li>
+         <li class="searchResult post primaryContent" data-author="Pogue Mahone" id="post-21058414">
+          <div class="listBlock main">
+           <div class="titleText">
+            <span class="contentType">
+             Post
+            </span>
+            <h3 class="title">
+             <a href="posts/21058414/">
+              Congressional baseball shooting|Shooter is dead
+             </a>
+            </h3>
+           </div>
+           <blockquote class="snippet">
+            <a href="posts/21058414/">
+             It is possible to get guns in the UK and it's possible to use them to kill people. It's much more difficult to get them and almost impossible to...
+            </a>
+           </blockquote>
+           <div class="meta">
+            Post by:
+            <a class="username" dir="auto" href="members/pogue-mahone.19580/">
+             Pogue Mahone
+            </a>
+            ,
+            <abbr class="DateTime" data-datestring="Jun 14, 2017" data-diff="14845" data-time="1497455798" data-timestring="16:56">
+             Jun 14, 2017 at 16:56
+            </abbr>
+            in forum:
+            <a href="forums/current-events.13/">
+             Current Events
+            </a>
+           </div>
+          </div>
+         </li>
+         <li class="searchResult post primaryContent" data-author="Pogue Mahone" id="post-21058373">
+          <div class="listBlock main">
+           <div class="titleText">
+            <span class="contentType">
+             Post
+            </span>
+            <h3 class="title">
+             <a href="posts/21058373/">
+              James Ducker: United prepared to listen to offers for Smalling
+             </a>
+            </h3>
+           </div>
+           <blockquote class="snippet">
+            <a href="posts/21058373/">
+             They haven't been at the club over the last three seasons. In two out of those last three season - when we've been relying on Smalling - he's...
+            </a>
+           </blockquote>
+           <div class="meta">
+            Post by:
+            <a class="username" dir="auto" href="members/pogue-mahone.19580/">
+             Pogue Mahone
+            </a>
+            ,
+            <abbr class="DateTime" data-datestring="Jun 14, 2017" data-diff="15218" data-time="1497455425" data-timestring="16:50">
+             Jun 14, 2017 at 16:50
+            </abbr>
+            in forum:
+            <a href="forums/manchester-united-forum.6/">
+             Manchester United Forum
+            </a>
+           </div>
+          </div>
+         </li>
+         <li class="searchResult post primaryContent" data-author="Pogue Mahone" id="post-21058230">
+          <div class="listBlock main">
+           <div class="titleText">
+            <span class="contentType">
+             Post
+            </span>
+            <h3 class="title">
+             <a href="posts/21058230/">
+              Congressional baseball shooting|Shooter is dead
+             </a>
+            </h3>
+           </div>
+           <blockquote class="snippet">
+            <a href="posts/21058230/">
+             They were stabbed but good point.
+            </a>
+           </blockquote>
+           <div class="meta">
+            Post by:
+            <a class="username" dir="auto" href="members/pogue-mahone.19580/">
+             Pogue Mahone
+            </a>
+            ,
+            <abbr class="DateTime" data-datestring="Jun 14, 2017" data-diff="16932" data-time="1497453711" data-timestring="16:21">
+             Jun 14, 2017 at 16:21
+            </abbr>
+            in forum:
+            <a href="forums/current-events.13/">
+             Current Events
+            </a>
+           </div>
+          </div>
+         </li>
+         <li class="searchResult post primaryContent" data-author="Pogue Mahone" id="post-21058223">
+          <div class="listBlock main">
+           <div class="titleText">
+            <span class="contentType">
+             Post
+            </span>
+            <h3 class="title">
+             <a href="posts/21058223/">
+              Huge Fire in West London
+             </a>
+            </h3>
+           </div>
+           <blockquote class="snippet">
+            <a href="posts/21058223/">
+             Bit of a random thought but the reaction of Londoners to this has been amazing. Huge sums of money and supplies raised over a very short period of...
+            </a>
+           </blockquote>
+           <div class="meta">
+            Post by:
+            <a class="username" dir="auto" href="members/pogue-mahone.19580/">
+             Pogue Mahone
+            </a>
+            ,
+            <abbr class="DateTime" data-datestring="Jun 14, 2017" data-diff="16986" data-time="1497453657" data-timestring="16:20">
+             Jun 14, 2017 at 16:20
+            </abbr>
+            in forum:
+            <a href="forums/current-events.13/">
+             Current Events
+            </a>
+           </div>
+          </div>
+         </li>
+         <li class="searchResult post primaryContent" data-author="Pogue Mahone" id="post-21057818">
+          <div class="listBlock main">
+           <div class="titleText">
+            <span class="contentType">
+             Post
+            </span>
+            <h3 class="title">
+             <a href="posts/21057818/">
+              James Ducker: United prepared to listen to offers for Smalling
+             </a>
+            </h3>
+           </div>
+           <blockquote class="snippet">
+            <a href="posts/21057818/">
+             Oh. You are serious. How long have you been following United? He's been constantly getting injured since we signed him. 2015/16 the exception that...
+            </a>
+           </blockquote>
+           <div class="meta">
+            Post by:
+            <a class="username" dir="auto" href="members/pogue-mahone.19580/">
+             Pogue Mahone
+            </a>
+            ,
+            <abbr class="DateTime" data-datestring="Jun 14, 2017" data-diff="22529" data-time="1497448114" data-timestring="14:48">
+             Jun 14, 2017 at 14:48
+            </abbr>
+            in forum:
+            <a href="forums/manchester-united-forum.6/">
+             Manchester United Forum
+            </a>
+           </div>
+          </div>
+         </li>
+         <li class="searchResult post primaryContent" data-author="Pogue Mahone" id="post-21057716">
+          <div class="listBlock main">
+           <div class="titleText">
+            <span class="contentType">
+             Post
+            </span>
+            <h3 class="title">
+             <a href="posts/21057716/">
+              Congressional baseball shooting|Shooter is dead
+             </a>
+            </h3>
+           </div>
+           <blockquote class="snippet">
+            <a href="posts/21057716/">
+             Nowhere near as easily as they can in the US. Which, again, is exactly my point.
+            </a>
+           </blockquote>
+           <div class="meta">
+            Post by:
+            <a class="username" dir="auto" href="members/pogue-mahone.19580/">
+             Pogue Mahone
+            </a>
+            ,
+            <abbr class="DateTime" data-datestring="Jun 14, 2017" data-diff="23645" data-time="1497446998" data-timestring="14:29">
+             Jun 14, 2017 at 14:29
+            </abbr>
+            in forum:
+            <a href="forums/current-events.13/">
+             Current Events
+            </a>
+           </div>
+          </div>
+         </li>
+         <li class="searchResult post primaryContent" data-author="Pogue Mahone" id="post-21057708">
+          <div class="listBlock main">
+           <div class="titleText">
+            <span class="contentType">
+             Post
+            </span>
+            <h3 class="title">
+             <a href="posts/21057708/">
+              James Ducker: United prepared to listen to offers for Smalling
+             </a>
+            </h3>
+           </div>
+           <blockquote class="snippet">
+            <a href="posts/21057708/">
+             Not sure if serious...
+            </a>
+           </blockquote>
+           <div class="meta">
+            Post by:
+            <a class="username" dir="auto" href="members/pogue-mahone.19580/">
+             Pogue Mahone
+            </a>
+            ,
+            <abbr class="DateTime" data-datestring="Jun 14, 2017" data-diff="23705" data-time="1497446938" data-timestring="14:28">
+             Jun 14, 2017 at 14:28
+            </abbr>
+            in forum:
+            <a href="forums/manchester-united-forum.6/">
+             Manchester United Forum
+            </a>
+           </div>
+          </div>
+         </li>
+         <li class="searchResult post primaryContent" data-author="Pogue Mahone" id="post-21057572">
+          <div class="listBlock main">
+           <div class="titleText">
+            <span class="contentType">
+             Post
+            </span>
+            <h3 class="title">
+             <a href="posts/21057572/">
+              Huge Fire in West London
+             </a>
+            </h3>
+           </div>
+           <blockquote class="snippet">
+            <a href="posts/21057572/">
+             I don't think we need to draw any broader conclusions from this specific case. The blog the tenants wrote warning this would happen is damning...
+            </a>
+           </blockquote>
+           <div class="meta">
+            Post by:
+            <a class="username" dir="auto" href="members/pogue-mahone.19580/">
+             Pogue Mahone
+            </a>
+            ,
+            <abbr class="DateTime" data-datestring="Jun 14, 2017" data-diff="25344" data-time="1497445299" data-timestring="14:01">
+             Jun 14, 2017 at 14:01
+            </abbr>
+            in forum:
+            <a href="forums/current-events.13/">
+             Current Events
+            </a>
+           </div>
+          </div>
+         </li>
+         <li class="searchResult post primaryContent" data-author="Pogue Mahone" id="post-21057554">
+          <div class="listBlock main">
+           <div class="titleText">
+            <span class="contentType">
+             Post
+            </span>
+            <h3 class="title">
+             <a href="posts/21057554/">
+              Congressional baseball shooting|Shooter is dead
+             </a>
+            </h3>
+           </div>
+           <blockquote class="snippet">
+            <a href="posts/21057554/">
+             About the same amount of bad taste as the tweet I quoted, so let's call it quits.
+            </a>
+           </blockquote>
+           <div class="meta">
+            Post by:
+            <a class="username" dir="auto" href="members/pogue-mahone.19580/">
+             Pogue Mahone
+            </a>
+            ,
+            <abbr class="DateTime" data-datestring="Jun 14, 2017" data-diff="25531" data-time="1497445112" data-timestring="13:58">
+             Jun 14, 2017 at 13:58
+            </abbr>
+            in forum:
+            <a href="forums/current-events.13/">
+             Current Events
+            </a>
+           </div>
+          </div>
+         </li>
+         <li class="searchResult post primaryContent" data-author="Pogue Mahone" id="post-21057550">
+          <div class="listBlock main">
+           <div class="titleText">
+            <span class="contentType">
+             Post
+            </span>
+            <h3 class="title">
+             <a href="posts/21057550/">
+              Congressional baseball shooting|Shooter is dead
+             </a>
+            </h3>
+           </div>
+           <blockquote class="snippet">
+            <a href="posts/21057550/">
+             Exactly my point.
+            </a>
+           </blockquote>
+           <div class="meta">
+            Post by:
+            <a class="username" dir="auto" href="members/pogue-mahone.19580/">
+             Pogue Mahone
+            </a>
+            ,
+            <abbr class="DateTime" data-datestring="Jun 14, 2017" data-diff="25570" data-time="1497445073" data-timestring="13:57">
+             Jun 14, 2017 at 13:57
+            </abbr>
+            in forum:
+            <a href="forums/current-events.13/">
+             Current Events
+            </a>
+           </div>
+          </div>
+         </li>
+         <li class="searchResult post primaryContent" data-author="Pogue Mahone" id="post-21057319">
+          <div class="listBlock main">
+           <div class="titleText">
+            <span class="contentType">
+             Post
+            </span>
+            <h3 class="title">
+             <a href="posts/21057319/">
+              Congressional baseball shooting|Shooter is dead
+             </a>
+            </h3>
+           </div>
+           <blockquote class="snippet">
+            <a href="posts/21057319/">
+             [MEDIA]
+
+Karma's a bitch.
+            </a>
+           </blockquote>
+           <div class="meta">
+            Post by:
+            <a class="username" dir="auto" href="members/pogue-mahone.19580/">
+             Pogue Mahone
+            </a>
+            ,
+            <abbr class="DateTime" data-datestring="Jun 14, 2017" data-diff="28873" data-time="1497441770" data-timestring="13:02">
+             Jun 14, 2017 at 13:02
+            </abbr>
+            in forum:
+            <a href="forums/current-events.13/">
+             Current Events
+            </a>
+           </div>
+          </div>
+         </li>
+         <li class="searchResult post primaryContent" data-author="Pogue Mahone" id="post-21057184">
+          <div class="listBlock main">
+           <div class="titleText">
+            <span class="contentType">
+             Post
+            </span>
+            <h3 class="title">
+             <a href="posts/21057184/">
+              Huge Fire in West London
+             </a>
+            </h3>
+           </div>
+           <blockquote class="snippet">
+            <a href="posts/21057184/">
+             Me too. It's a brilliant piece of writing.
+            </a>
+           </blockquote>
+           <div class="meta">
+            Post by:
+            <a class="username" dir="auto" href="members/pogue-mahone.19580/">
+             Pogue Mahone
+            </a>
+            ,
+            <abbr class="DateTime" data-datestring="Jun 14, 2017" data-diff="30433" data-time="1497440210" data-timestring="12:36">
+             Jun 14, 2017 at 12:36
+            </abbr>
+            in forum:
+            <a href="forums/current-events.13/">
+             Current Events
+            </a>
+           </div>
+          </div>
+         </li>
+         <li class="searchResult post primaryContent" data-author="Pogue Mahone" id="post-21057078">
+          <div class="listBlock main">
+           <div class="titleText">
+            <span class="contentType">
+             Post
+            </span>
+            <h3 class="title">
+             <a href="posts/21057078/">
+              Huge Fire in West London
+             </a>
+            </h3>
+           </div>
+           <blockquote class="snippet">
+            <a href="posts/21057078/">
+             Good post.
+
+Of course, the way that modern media makes all these horrible events much more visceral is a real phenomenon. We are safer but the...
+            </a>
+           </blockquote>
+           <div class="meta">
+            Post by:
+            <a class="username" dir="auto" href="members/pogue-mahone.19580/">
+             Pogue Mahone
+            </a>
+            ,
+            <abbr class="DateTime" data-datestring="Jun 14, 2017" data-diff="31814" data-time="1497438829" data-timestring="12:13">
+             Jun 14, 2017 at 12:13
+            </abbr>
+            in forum:
+            <a href="forums/current-events.13/">
+             Current Events
+            </a>
+           </div>
+          </div>
+         </li>
+         <li class="searchResult post primaryContent" data-author="Pogue Mahone" id="post-21057073">
+          <div class="listBlock main">
+           <div class="titleText">
+            <span class="contentType">
+             Post
+            </span>
+            <h3 class="title">
+             <a href="posts/21057073/">
+              Huge Fire in West London
+             </a>
+            </h3>
+           </div>
+           <blockquote class="snippet">
+            <a href="posts/21057073/">
+             Justgiving page set up. The woman who set it up is a volunteer at the Rugby Portobello Trust, who are helping look after most of the displaced...
+            </a>
+           </blockquote>
+           <div class="meta">
+            Post by:
+            <a class="username" dir="auto" href="members/pogue-mahone.19580/">
+             Pogue Mahone
+            </a>
+            ,
+            <abbr class="DateTime" data-datestring="Jun 14, 2017" data-diff="31924" data-time="1497438719" data-timestring="12:11">
+             Jun 14, 2017 at 12:11
+            </abbr>
+            in forum:
+            <a href="forums/current-events.13/">
+             Current Events
+            </a>
+           </div>
+          </div>
+         </li>
+         <li class="searchResult post primaryContent" data-author="Pogue Mahone" id="post-21056888">
+          <div class="listBlock main">
+           <div class="titleText">
+            <span class="contentType">
+             Post
+            </span>
+            <h3 class="title">
+             <a href="posts/21056888/">
+              Huge Fire in West London
+             </a>
+            </h3>
+           </div>
+           <blockquote class="snippet">
+            <a href="posts/21056888/">
+             I lived very near there for years. A lot of the gentrification has actually been driven by selling off apartments in social housing blocks like...
+            </a>
+           </blockquote>
+           <div class="meta">
+            Post by:
+            <a class="username" dir="auto" href="members/pogue-mahone.19580/">
+             Pogue Mahone
+            </a>
+            ,
+            <abbr class="DateTime" data-datestring="Jun 14, 2017" data-diff="34845" data-time="1497435798" data-timestring="11:23">
+             Jun 14, 2017 at 11:23
+            </abbr>
+            in forum:
+            <a href="forums/current-events.13/">
+             Current Events
+            </a>
+           </div>
+          </div>
+         </li>
+         <li class="searchResult post primaryContent" data-author="Pogue Mahone" id="post-21056765">
+          <div class="listBlock main">
+           <div class="titleText">
+            <span class="contentType">
+             Post
+            </span>
+            <h3 class="title">
+             <a href="posts/21056765/">
+              James Ducker: United prepared to listen to offers for Smalling
+             </a>
+            </h3>
+           </div>
+           <blockquote class="snippet">
+            <a href="posts/21056765/">
+             Jones is a lot younger and more versatile so Jose probably thinks there's a lot more to come from him. Plus he had that run of really good...
+            </a>
+           </blockquote>
+           <div class="meta">
+            Post by:
+            <a class="username" dir="auto" href="members/pogue-mahone.19580/">
+             Pogue Mahone
+            </a>
+            ,
+            <abbr class="DateTime" data-datestring="Jun 14, 2017" data-diff="36761" data-time="1497433882" data-timestring="10:51">
+             Jun 14, 2017 at 10:51
+            </abbr>
+            in forum:
+            <a href="forums/manchester-united-forum.6/">
+             Manchester United Forum
+            </a>
+           </div>
+          </div>
+         </li>
+         <li class="searchResult post primaryContent" data-author="Pogue Mahone" id="post-21056728">
+          <div class="listBlock main">
+           <div class="titleText">
+            <span class="contentType">
+             Post
+            </span>
+            <h3 class="title">
+             <a href="posts/21056728/">
+              James Ducker: United prepared to listen to offers for Smalling
+             </a>
+            </h3>
+           </div>
+           <blockquote class="snippet">
+            <a href="posts/21056728/">
+             Short memories?! He's been with United for seven years and only once missed fewer than 13 PL games with injuries. He's averaged just over 20...
+            </a>
+           </blockquote>
+           <div class="meta">
+            Post by:
+            <a class="username" dir="auto" href="members/pogue-mahone.19580/">
+             Pogue Mahone
+            </a>
+            ,
+            <abbr class="DateTime" data-datestring="Jun 14, 2017" data-diff="37259" data-time="1497433384" data-timestring="10:43">
+             Jun 14, 2017 at 10:43
+            </abbr>
+            in forum:
+            <a href="forums/manchester-united-forum.6/">
+             Manchester United Forum
+            </a>
+           </div>
+          </div>
+         </li>
+         <li class="searchResult post primaryContent" data-author="Pogue Mahone" id="post-21056646">
+          <div class="listBlock main">
+           <div class="titleText">
+            <span class="contentType">
+             Post
+            </span>
+            <h3 class="title">
+             <a href="posts/21056646/">
+              James Ducker: United prepared to listen to offers for Smalling
+             </a>
+            </h3>
+           </div>
+           <blockquote class="snippet">
+            <a href="posts/21056646/">
+             The most consistent thing about Smalling has been recurrent injuries. Performance-wise he's the most inconsistent defender on our books.
+            </a>
+           </blockquote>
+           <div class="meta">
+            Post by:
+            <a class="username" dir="auto" href="members/pogue-mahone.19580/">
+             Pogue Mahone
+            </a>
+            ,
+            <abbr class="DateTime" data-datestring="Jun 14, 2017" data-diff="38140" data-time="1497432503" data-timestring="10:28">
+             Jun 14, 2017 at 10:28
+            </abbr>
+            in forum:
+            <a href="forums/manchester-united-forum.6/">
+             Manchester United Forum
+            </a>
+           </div>
+          </div>
+         </li>
+         <li class="searchResult post primaryContent" data-author="Pogue Mahone" id="post-21056360">
+          <div class="listBlock main">
+           <div class="titleText">
+            <span class="contentType">
+             Post
+            </span>
+            <h3 class="title">
+             <a href="posts/21056360/">
+              Pogba's transformation under Jose
+             </a>
+            </h3>
+           </div>
+           <blockquote class="snippet">
+            <a href="posts/21056360/">
+             [MEDIA]
+
+Love me a good first touch.
+            </a>
+           </blockquote>
+           <div class="meta">
+            Post by:
+            <a class="username" dir="auto" href="members/pogue-mahone.19580/">
+             Pogue Mahone
+            </a>
+            ,
+            <abbr class="DateTime" data-datestring="Jun 14, 2017" data-diff="41648" data-time="1497428995" data-timestring="09:29">
+             Jun 14, 2017 at 09:29
+            </abbr>
+            in forum:
+            <a href="forums/manchester-united-forum.6/">
+             Manchester United Forum
+            </a>
+           </div>
+          </div>
+         </li>
+        </ol>
+        <div class="sectionFooter searchResultSummary">
+         <span class="resultCount">
+          Showing results 1 to 20 of 412
+         </span>
+         <a class="nextLink" href="search/61940913/?page=2">
+          Next &gt;
+         </a>
+        </div>
+       </form>
+      </div>
+      <div class="pageNavLinkGroup">
+       <div class="linkGroup">
+        <a href="search/61940913/?searchform=1">
+         Search Again
+        </a>
+       </div>
+       <div class="PageNav" data-baseurl="search/61940913/?page=%7B%7Bsentinel%7D%7D" data-end="6" data-last="21" data-page="1" data-range="2" data-sentinel="{{sentinel}}" data-start="2">
+        <span class="pageNavHeader">
+         Page 1 of 21
+        </span>
+        <nav>
+         <a class="currentPage " href="search/61940913/" rel="start">
+          1
+         </a>
+         <a class="PageNavPrev hidden">
+          ←
+         </a>
+         <span class="scrollable">
+          <span class="items">
+           <a class="" href="search/61940913/?page=2">
+            2
+           </a>
+           <a class="" href="search/61940913/?page=3">
+            3
+           </a>
+           <a class="" href="search/61940913/?page=4">
+            4
+           </a>
+           <a class="" href="search/61940913/?page=5">
+            5
+           </a>
+           <a class="" href="search/61940913/?page=6">
+            6
+           </a>
+          </span>
+         </span>
+         <a class="PageNavNext ">
+          →
+         </a>
+         <a class="" href="search/61940913/?page=21">
+          21
+         </a>
+         <a class="text" href="search/61940913/?page=2">
+          Next &gt;
+         </a>
+        </nav>
+       </div>
+      </div>
+      <!-- login form, to be moved to the upper drop-down -->
+      <div class="breadBoxBottom">
+       <nav>
+        <fieldset class="breadcrumb">
+         <a class="OverlayTrigger jumpMenuTrigger" data-cacheoverlay="true" href="misc/quick-navigation-menu" title="Open quick navigation">
+          <!--Jump to...-->
+         </a>
+         <div class="boardTitle">
+          <strong>
+           RedCafe.net
+          </strong>
+         </div>
+         <span class="crumbs">
+          <span class="crust homeCrumb">
+           <a class="crumb" href="http://www.redcafe.net/">
+            <span>
+             Home
+            </span>
+           </a>
+           <span class="arrow">
+            <span>
+            </span>
+           </span>
+          </span>
+          <span class="crust">
+           <a class="crumb" href="http://www.redcafe.net/search/">
+            <span>
+             Search
+            </span>
+           </a>
+           <span class="arrow">
+            <span>
+             &gt;
+            </span>
+           </span>
+          </span>
+         </span>
+        </fieldset>
+       </nav>
+      </div>
+     </div>
+    </div>
+   </div>
+   <header>
+    <div id="header">
+     <div id="logoBlock">
+      <div class="pageWidth">
+       <div class="pageContent">
+        <div id="logo">
+         <a href="http://www.redcafe.net/">
+          <span>
+          </span>
+          <img alt="RedCafe.net" src="/img/logo-retina.png"/>
+         </a>
+        </div>
+        <span class="helper">
+        </span>
+       </div>
+      </div>
+     </div>
+     <div class="pageWidth withSearch" id="navigation">
+      <div class="pageContent">
+       <nav>
+        <div class="navTabs">
+         <ul class="publicTabs">
+          <!-- home -->
+          <!-- extra tabs: home -->
+          <li class="navTab portal Popup PopupControl PopupClosed">
+           <a class="navLink" href="http://www.redcafe.net/">
+            Home
+           </a>
+           <a class="SplitCtrl" href="http://www.redcafe.net/" rel="Menu">
+           </a>
+           <div class="Menu JsOnly tabMenu portalTabLinks">
+            <div class="primaryContent menuHeader">
+             <h3>
+              Home
+             </h3>
+             <div class="muted">
+              Quick Links
+             </div>
+            </div>
+            <ul class="secondaryContent blockLinksList">
+             <li>
+              <a href="recent-activity/">
+               Recent Activity
+              </a>
+             </li>
+             <li>
+              <a href="find-new/threads">
+               What's New?
+              </a>
+             </li>
+             <li>
+              <a href="help/">
+               Help
+              </a>
+             </li>
+            </ul>
+           </div>
+          </li>
+          <!-- forums -->
+          <li class="navTab forums Popup PopupControl PopupClosed">
+           <a class="navLink" href="http://www.redcafe.net/forums/">
+            Forums
+           </a>
+           <a class="SplitCtrl" href="http://www.redcafe.net/forums/" rel="Menu">
+           </a>
+           <div class="Menu JsOnly tabMenu forumsTabLinks">
+            <div class="primaryContent menuHeader">
+             <h3>
+              Forums
+             </h3>
+             <div class="muted">
+              Quick Links
+             </div>
+            </div>
+            <ul class="secondaryContent blockLinksList">
+             <li>
+              <a href="search/?type=post">
+               Search Forums
+              </a>
+             </li>
+             <li>
+              <a href="find-new/posts" rel="nofollow">
+               Recent Posts
+              </a>
+             </li>
+             <li>
+              <a href="/threads/frequently-asked-questions.422929/" rel="nofollow">
+               FAQ
+              </a>
+             </li>
+            </ul>
+           </div>
+          </li>
+          <!-- extra tabs: middle -->
+          <li class="navTab matchday Popup PopupControl PopupClosed">
+           <a class="navLink" href="http://www.redcafe.net/match-day/">
+            Match Day
+           </a>
+           <a class="SplitCtrl" href="http://www.redcafe.net/match-day/" rel="Menu">
+           </a>
+           <div class="Menu JsOnly tabMenu matchdayTabLinks">
+            <div class="primaryContent menuHeader">
+             <h3>
+              Match Day
+             </h3>
+             <div class="muted">
+              Quick Links
+             </div>
+            </div>
+            <ul class="secondaryContent blockLinksList">
+             <li>
+              <a href="matches/next">
+               Next Match
+              </a>
+             </li>
+             <li>
+              <a href="matches/previous">
+               Previous Match
+              </a>
+             </li>
+             <li>
+              <a href="find-new/posts" rel="nofollow">
+               Recent Posts
+              </a>
+             </li>
+             <li>
+              <a href="/seasons/2014-15/">
+               Season 2014/15
+              </a>
+             </li>
+             <li>
+              <a href="/seasons/2015-16/">
+               Season 2015/16
+              </a>
+             </li>
+            </ul>
+           </div>
+          </li>
+          <li class="navTab transfer-tweets PopupClosed">
+           <a class="navLink" href="http://www.redcafe.net/transfer-tweets/">
+            Transfer Tweets
+           </a>
+          </li>
+          <!-- members -->
+          <li class="navTab members Popup PopupControl PopupClosed">
+           <a class="navLink" href="http://www.redcafe.net/members/">
+            Members
+           </a>
+           <a class="SplitCtrl" href="http://www.redcafe.net/members/" rel="Menu">
+           </a>
+           <div class="Menu JsOnly tabMenu membersTabLinks">
+            <div class="primaryContent menuHeader">
+             <h3>
+              Members
+             </h3>
+             <div class="muted">
+              Quick Links
+             </div>
+            </div>
+            <ul class="secondaryContent blockLinksList">
+             <li>
+              <a href="members/">
+               Notable Members
+              </a>
+             </li>
+             <li>
+              <a href="online/">
+               Current Visitors
+              </a>
+             </li>
+             <li>
+              <a href="recent-activity/">
+               Recent Activity
+              </a>
+             </li>
+             <li>
+              <a href="find-new/profile-posts" rel="nofollow">
+               New Profile Posts
+              </a>
+             </li>
+            </ul>
+           </div>
+          </li>
+          <!-- extra tabs: end -->
+          <!-- responsive popup -->
+          <li class="navTab navigationHiddenTabs Popup PopupControl PopupClosed" style="display:none">
+           <a class="navLink NoPopupGadget" rel="Menu">
+            <span class="menuIcon">
+             Menu
+            </span>
+           </a>
+           <div class="Menu JsOnly blockLinksList primaryContent" id="NavigationHiddenMenu">
+           </div>
+          </li>
+          <!-- no selection -->
+          <li class="navTab selected">
+           <div class="tabLinks">
+           </div>
+          </li>
+         </ul>
+        </div>
+        <span class="helper">
+        </span>
+       </nav>
+      </div>
+     </div>
+     <div class="pageWidth" id="searchBar">
+      <span id="QuickSearchPlaceholder" title="Search">
+       Search
+      </span>
+      <fieldset id="QuickSearch">
+       <form action="search/search" class="formPopup" method="post">
+        <div class="primaryControls">
+         <!-- block: primaryControls -->
+         <input class="textCtrl" id="QuickSearchQuery" name="keywords" placeholder="Search..." title="Enter your search and hit enter" type="search" value=""/>
+         <!-- end block: primaryControls -->
+        </div>
+        <div class="secondaryControls">
+         <div class="controlsWrapper">
+          <!-- block: secondaryControls -->
+          <dl class="ctrlUnit">
+           <dt>
+           </dt>
+           <dd>
+            <ul>
+             <li>
+              <label>
+               <input class="AutoChecker" data-uncheck="#search_bar_thread" id="search_bar_title_only" name="title_only" type="checkbox" value="1"/>
+               Search titles only
+              </label>
+             </li>
+            </ul>
+           </dd>
+          </dl>
+          <dl class="ctrlUnit">
+           <dt>
+            <label for="searchBar_users">
+             Posted by Member:
+            </label>
+           </dt>
+           <dd>
+            <input class="textCtrl AutoComplete" id="searchBar_users" name="users" type="text" value=""/>
+            <p class="explain">
+             Separate names with a comma.
+            </p>
+           </dd>
+          </dl>
+          <dl class="ctrlUnit">
+           <dt>
+            <label for="searchBar_date">
+             Newer Than:
+            </label>
+           </dt>
+           <dd>
+            <input class="textCtrl" id="searchBar_date" name="date" type="date" value=""/>
+           </dd>
+          </dl>
+         </div>
+         <!-- end block: secondaryControls -->
+         <dl class="ctrlUnit submitUnit">
+          <dt>
+          </dt>
+          <dd>
+           <input class="button primary Tooltip" title="Find Now" type="submit" value="Search"/>
+           <div class="Popup" id="commonSearches">
+            <a class="button NoPopupGadget Tooltip" data-tipclass="flipped" rel="Menu" title="Useful Searches">
+             <span class="arrowWidget">
+             </span>
+            </a>
+            <div class="Menu">
+             <div class="primaryContent menuHeader">
+              <h3>
+               Useful Searches
+              </h3>
+             </div>
+             <ul class="secondaryContent blockLinksList">
+              <!-- block: useful_searches -->
+              <li>
+               <a href="find-new/posts?recent=1" rel="nofollow">
+                Recent Posts
+               </a>
+              </li>
+              <!-- end block: useful_searches -->
+             </ul>
+            </div>
+           </div>
+           <a class="button moreOptions Tooltip" href="search/" title="Advanced Search">
+            More...
+           </a>
+          </dd>
+         </dl>
+        </div>
+        <input name="_xfToken" type="hidden" value=""/>
+       </form>
+      </fieldset>
+     </div>
+    </div>
+   </header>
+  </div>
+  <footer>
+   <div class="footer">
+    <div class="pageWidth">
+     <div class="pageContent">
+      <ul class="footerLinks">
+       <li>
+        <a class="OverlayTrigger" data-overlayoptions='{"fixed":false}' href="misc/contact">
+         Contact Us
+        </a>
+       </li>
+       <li>
+        <a href="help/">
+         Help
+        </a>
+       </li>
+       <li>
+        <a href="/threads/frequently-asked-questions.422929/">
+         FAQ
+        </a>
+       </li>
+       <li>
+        <a class="homeLink" href="http://www.redcafe.net/">
+         Home
+        </a>
+       </li>
+       <li>
+        <a class="topLink" href="/search/61940913/#navigation">
+         Top
+        </a>
+       </li>
+       <li>
+        <a class="globalFeed" href="forums/-/index.rss" rel="alternate" target="_blank" title="RSS feed for RedCafe.net">
+         RSS
+        </a>
+       </li>
+      </ul>
+      <span class="helper">
+      </span>
+     </div>
+    </div>
+   </div>
+   <div class="footerLegal">
+    <div class="pageWidth">
+     <div class="pageContent">
+      <ul id="legal">
+       <li>
+        <a href="help/terms">
+         Terms and Rules
+        </a>
+       </li>
+      </ul>
+      <div id="copyright">
+       <a class="concealed" href="https://xenforo.com">
+        Forum software by XenForo™
+        <span>
+         ©2010-2017 XenForo Ltd.
+        </span>
+       </a>
+      </div>
+      <span class="helper">
+      </span>
+     </div>
+    </div>
+   </div>
+  </footer>
+  <script>
+   var _b = document.getElementsByTagName('base')[0], _bH = "http://www.redcafe.net/";
+			if (_b && _b.href != _bH) _b.href = _bH;
+  </script>
+  <script>
+   window.twttr = (function(d, s, id) {
+var js, fjs = d.getElementsByTagName(s)[0],
+  t = window.twttr || {};
+if (d.getElementById(id)) return t;
+js = d.createElement(s);
+js.id = id;
+js.src = "https://platform.twitter.com/widgets.js";
+fjs.parentNode.insertBefore(js, fjs);
+
+t._e = [];
+t.ready = function(f) {
+  t._e.push(f);
+};
+
+return t;
+}(document, "script", "twitter-wjs"));
+  </script>
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js">
+  </script>
+  <script>
+   if (!window.jQuery) { document.write('<scr'+'ipt type="text/javascript" src="/js/jquery/jquery-1.11.0.min.js"><\/scr'+'ipt>'); }
+  </script>
+  <script src="/js/xenforo/xenforo.js?_v=cf8fee1e">
+  </script>
+  <script>
+   XenForo.LoginBar = function(a){};
+  </script>
+  <script src="/js/sidane/cookie_notice.js?_v=cf8fee1e">
+  </script>
+  <script type="text/javascript">
+   /* <![CDATA[ */ 
+var block_active = true;
+// /* ]]> */
+  </script>
+  <script type="text/javascript">
+   /* <![CDATA[ */ 
+if (block_active) {
+    ga('set', 'dimension3', 'Blocker');
+} else {
+    ga('set', 'dimension3', 'Non-Blocker');
+}
+// /* ]]> */
+  </script>
+  <script>
+   ga('send', 'pageview');
+  </script>
+  <script>
+   jQuery.extend(true, XenForo,
+{
+	visitor: { user_id: 0 },
+	serverTimeInfo:
+	{
+		now: 1497470643,
+		today: 1497394800,
+		todayDow: 3
+	},
+	_lightBoxUniversal: "0",
+	_enableOverlays: "1",
+	_animationSpeedMultiplier: "1",
+	_overlayConfig:
+	{
+		top: "10%",
+		speed: 200,
+		closeSpeed: 100,
+		mask:
+		{
+			color: "rgb(255, 255, 255)",
+			opacity: "0.6",
+			loadSpeed: 200,
+			closeSpeed: 100
+		}
+	},
+	_ignoredUsers: [],
+	_loadedScripts: {"search_results":true,"panel_scroller":true,"login_bar":true,"rellect_adblock_detector":true,"\/js\/sidane\/cookie_notice.js?_v=cf8fee1e":true},
+	_cookieConfig: { path: "/", domain: "", prefix: "xf_"},
+	_csrfToken: "",
+	_csrfRefreshUrl: "login/csrf-token-refresh",
+	_jsVersion: "cf8fee1e",
+	_noRtnProtect: false,
+	_noSocialLogin: false
+});
+jQuery.extend(XenForo.phrases,
+{
+	cancel: "Cancel",
+
+	a_moment_ago:    "a few seconds ago",
+	one_minute_ago:  "1 minute ago",
+	x_minutes_ago:   "%minutes% minutes ago",
+	today_at_x:      "Today at %time%",
+	yesterday_at_x:  "Yesterday at %time%",
+	day_x_at_time_y: "%day% at %time%",
+
+	day0: "Sunday",
+	day1: "Monday",
+	day2: "Tuesday",
+	day3: "Wednesday",
+	day4: "Thursday",
+	day5: "Friday",
+	day6: "Saturday",
+
+	_months: "January,February,March,April,May,June,July,August,September,October,November,December",
+	_daysShort: "Sun,Mon,Tue,Wed,Thu,Fri,Sat",
+
+	following_error_occurred: "The following error occurred",
+	server_did_not_respond_in_time_try_again: "The server did not respond in time. Please try again.",
+	logging_in: "Logging in",
+	click_image_show_full_size_version: "Click this image to show the full-size version.",
+	show_hidden_content_by_x: "Show hidden content by {names}"
+});
+
+// Facebook Javascript SDK
+XenForo.Facebook.appId = "";
+XenForo.Facebook.forceInit = false;
+
+
+
+
+XenForo.rellect = XenForo.rellect || {};
+
+XenForo.rellect.AdBlockDetectorParams = {
+	expiry: 18000,
+	hours: 5,
+	canDismiss: 1,
+	type: "notice",
+	phrases: {
+		title: "Your attention is required",
+		message: "Our system detected that your browser is blocking advertisements on our site. Please help support RedCafe.net by disabling any kind of ad blocker while browsing this site. Thank you.",
+		close: "Close"
+	},
+	loadScript: function(url, loadFn, errorFn){
+		var script = $('<script />', {
+			async: 'async',
+			src: url
+		})
+		.load(function(){
+			if(loadFn){
+				loadFn();
+				loadFn = null;
+			}
+		})
+		.error(function(jqXHR, textStatus){
+			/* When script is blocked, textStatus is undefined. */
+			if(typeof textStatus !== 'undefined'){
+				return;
+			}
+
+			if(errorFn){
+				errorFn(jqXHR, textStatus);
+				errorFn = null;
+			}
+		});
+
+		(document.body || document.getElementsByTagName('body')[0]).appendChild(script[0]);
+	}
+};
+
+var AdBlockDetectorWorkaround = function(){
+	/* This is just in case the handler script is blocked by the adblocker */
+	if(!XenForo.rellect.AdBlockDetector){
+		console.log('AdBlock detector failed. Trying workaround.');
+		XenForo.ajax('index.php', {dataType: 'html', AdblockDetector: 1}, function(ajaxData){
+			if(XenForo.hasTemplateHtml(ajaxData)){
+				try{
+					jQuery.globalEval(ajaxData.templateHtml);
+				}
+				catch(e){}
+			}
+		}, {
+			error: function(){
+				console.log('AdBlock detector workaround failed.');
+			}
+		});
+	}
+};
+
+XenForo.rellect.AdBlockDetectorParams.loadScript(
+	'/js/rellect/AdblockDetector/handler.min.js?rev=33',
+	false,
+	AdBlockDetectorWorkaround
+);
+  </script>
+  <script async="" defer="" src="//tags.onscroll.com/0868053a-088d-4d21-a397-79e717643f1d/tag.min.js">
+  </script>
+ </body>
+</html>
