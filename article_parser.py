@@ -10,6 +10,7 @@ proxyDict = {
             }
 
 # open the file specified
+print "lol"
 urls = open("./yearwise_urls/urls_list_2014.txt","r+").readlines()
 article_count = float(len(urls))
 
